@@ -1,6 +1,6 @@
 module github.com/devans10/terraform-provider-flash
 
-go 1.12
+go 1.21
 
 require (
 	github.com/devans10/pugo/flasharray v0.0.0-20190504040407-d9be18a27e92
